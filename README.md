@@ -3,7 +3,7 @@
       Working with Cloud and also FRONT END DEVELOPMENT
 - 🌱 I’m currently learning ...
         FULL STACK DEVELOPMENT
-- 💞️ I’m looking to collaborate on ... Web Development Projects
+- 💞️ I’m looking to collaborate on ... Web Development Projects, Cloud based Projects
 - 📫 How to reach me ... 
     * Mail me @ kkiransasi98@gmail.com
     * [LinkedIn](https://www.linkedin.com/in/sasi-kiran-a2a2121a4/)
